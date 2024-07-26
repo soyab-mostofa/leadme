@@ -1,8 +1,8 @@
 import Image from "next/image";
 import Link from "next/link";
 
-import { LatestPost } from "~/app/_components/post";
-import { api } from "~/trpc/server";
+// import { LatestPost } from "~/app/_components/post";
+// import { api } from "~/trpc/server";
 
 export default async function Home() {
   // const hello = await api.post.hello({ text: "from tRPC" });
